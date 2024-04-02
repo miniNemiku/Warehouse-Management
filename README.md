@@ -18,7 +18,7 @@ Welcome to the Food Warehouse Management System project! The system simulates th
     ```
 2. Run the warehouse management system:
     ```bash
-    ./bin/warehouse <path_to_configuration_file>
+    <path_to_configuration_file>
     ```
     
 
